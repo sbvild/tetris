@@ -1,0 +1,18 @@
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\bin\Debug\Tetris.exe
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\bin\Debug\Tetris.pdb
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\s4\AppData\Local\Temporary Projects\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Debug\Tetris.TetrisForm.resources
