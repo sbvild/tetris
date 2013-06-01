@@ -1,0 +1,9 @@
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Release\Tetris.exe
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\bin\Release\Tetris.pdb
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Release\Tetris.Form1.resources
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Release\Tetris.Properties.Resources.resources
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Release\Tetris.exe
+C:\Users\s4\documents\visual studio 2010\Projects\Tetris\Tetris\obj\x86\Release\Tetris.pdb
